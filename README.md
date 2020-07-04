@@ -7,7 +7,7 @@ Demo Image:
 
 ## Setup
 
-1. Git Clone the project with: ```git clone https://github.com/redianmarku/Django-Twitter-Clone.git```.
+1. Git Clone the project with: ```git clone https://github.com/Karam-DEV/Django-Twitter-Clone.git```.
 
 2. Move to the base directory: ```cd Django-Twitter-Clone```
 
